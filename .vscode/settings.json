@@ -1,0 +1,8 @@
+{
+    "idf.espIdfPath": "/Users/kagan/.esp/esp-idf",
+    "idf.pythonBinPath": "/Users/kagan/.espressif/python_env/idf4.4_py3.10_env/bin/python",
+    "idf.toolsPath": "/Users/kagan/.espressif",
+    "idf.customExtraPaths": "/Users/kagan/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch3-8.4.0/xtensa-esp32-elf/bin:/Users/kagan/.espressif/tools/xtensa-esp32s2-elf/esp-2021r2-patch3-8.4.0/xtensa-esp32s2-elf/bin:/Users/kagan/.espressif/tools/xtensa-esp32s3-elf/esp-2021r2-patch3-8.4.0/xtensa-esp32s3-elf/bin:/Users/kagan/.espressif/tools/riscv32-esp-elf/esp-2021r2-patch3-8.4.0/riscv32-esp-elf/bin:/Users/kagan/.espressif/tools/esp32ulp-elf/2.28.51-esp-20191205/esp32ulp-elf-binutils/bin:/Users/kagan/.espressif/tools/esp32s2ulp-elf/2.28.51-esp-20191205/esp32s2ulp-elf-binutils/bin:/Users/kagan/.espressif/tools/openocd-esp32/v0.11.0-esp32-20211220/openocd-esp32/bin",
+    "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"/Users/kagan/.espressif/tools/openocd-esp32/v0.11.0-esp32-20211220/openocd-esp32/share/openocd/scripts\"}",
+    "idf.gitPath": "git"
+}
